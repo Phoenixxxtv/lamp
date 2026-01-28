@@ -19,9 +19,6 @@ dependencies:
   # Routing
   go_router: ^15.1.2
   
-  # Internationalization
-  intl: ^0.20.2
-  
   # UI
   cupertino_icons: ^1.0.8
   

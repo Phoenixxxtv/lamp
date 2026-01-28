@@ -90,11 +90,8 @@ class AppTheme {
         ),
         contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
       ),
-      cardTheme: CardThemeData(
+      cardTheme: const CardTheme(
         elevation: 2,
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(16),
-        ),
         clipBehavior: Clip.antiAlias,
       ),
       bottomNavigationBarTheme: const BottomNavigationBarThemeData(
@@ -164,12 +161,9 @@ class AppTheme {
         ),
         contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
       ),
-      cardTheme: CardThemeData(
+      cardTheme: const CardTheme(
         elevation: 2,
-        color: const Color(0xFF1E1E1E),
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(16),
-        ),
+        color: Color(0xFF1E1E1E),
         clipBehavior: Clip.antiAlias,
       ),
     );

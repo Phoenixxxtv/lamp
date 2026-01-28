@@ -1,0 +1,22 @@
+{
+  "@@locale": "ta",
+  "appTitle": "LAMP",
+  "welcome": "LAMP க்கு வரவேற்கிறோம்",
+  "login": "உள்நுழைய",
+  "email": "மின்னஞ்சல்",
+  "password": "கடவுச்சொல்",
+  "inviteCode": "அழைப்பு குறியீடு",
+  "submit": "சமர்ப்பி",
+  "cancel": "ரத்து செய்",
+  "home": "முகப்பு",
+  "community": "சமூகம்",
+  "habits": "பழக்கங்கள்",
+  "tasks": "பணிகள்",
+  "profile": "சுயவிவரம்",
+  "notifications": "அறிவிப்புகள்",
+  "settings": "அமைப்புகள்",
+  "logout": "வெளியேறு",
+  "error": "பிழை",
+  "loading": "ஏற்றுகிறது...",
+  "noData": "தரவு கிடைக்கவில்லை"
+}

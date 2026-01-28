@@ -1,0 +1,22 @@
+{
+  "@@locale": "gu",
+  "appTitle": "LAMP",
+  "welcome": "LAMP માં આપનું સ્વાગત છે",
+  "login": "લૉગિન",
+  "email": "ઇમેઇલ",
+  "password": "પાસવર્ડ",
+  "inviteCode": "આમંત્રણ કોડ",
+  "submit": "સબમિટ કરો",
+  "cancel": "રદ કરો",
+  "home": "હોમ",
+  "community": "સમુદાય",
+  "habits": "આદતો",
+  "tasks": "કાર્યો",
+  "profile": "પ્રોફાઇલ",
+  "notifications": "સૂચનાઓ",
+  "settings": "સેટિંગ્સ",
+  "logout": "લૉગ આઉટ",
+  "error": "ભૂલ",
+  "loading": "લોડ થઈ રહ્યું છે...",
+  "noData": "કોઈ ડેટા ઉપલબ્ધ નથી"
+}

@@ -1,0 +1,22 @@
+{
+  "@@locale": "te",
+  "appTitle": "LAMP",
+  "welcome": "LAMP కు స్వాగతం",
+  "login": "లాగిన్",
+  "email": "ఇమెయిల్",
+  "password": "పాస్‌వర్డ్",
+  "inviteCode": "ఆహ్వాన కోడ్",
+  "submit": "సమర్పించు",
+  "cancel": "రద్దు చేయి",
+  "home": "హోమ్",
+  "community": "కమ్యూనిటీ",
+  "habits": "అలవాట్లు",
+  "tasks": "టాస్క్‌లు",
+  "profile": "ప్రొఫైల్",
+  "notifications": "నోటిఫికేషన్లు",
+  "settings": "సెట్టింగ్‌లు",
+  "logout": "లాగ్ అవుట్",
+  "error": "లోపం",
+  "loading": "లోడ్ అవుతోంది...",
+  "noData": "డేటా అందుబాటులో లేదు"
+}

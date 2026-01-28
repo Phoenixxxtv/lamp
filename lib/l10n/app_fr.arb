@@ -1,0 +1,22 @@
+{
+  "@@locale": "fr",
+  "appTitle": "LAMP",
+  "welcome": "Bienvenue sur LAMP",
+  "login": "Connexion",
+  "email": "E-mail",
+  "password": "Mot de passe",
+  "inviteCode": "Code d'invitation",
+  "submit": "Soumettre",
+  "cancel": "Annuler",
+  "home": "Accueil",
+  "community": "Communauté",
+  "habits": "Habitudes",
+  "tasks": "Tâches",
+  "profile": "Profil",
+  "notifications": "Notifications",
+  "settings": "Paramètres",
+  "logout": "Déconnexion",
+  "error": "Erreur",
+  "loading": "Chargement...",
+  "noData": "Aucune donnée disponible"
+}

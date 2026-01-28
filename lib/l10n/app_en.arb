@@ -1,0 +1,79 @@
+{
+  "@@locale": "en",
+  "appTitle": "LAMP",
+  "@appTitle": {
+    "description": "App title"
+  },
+  "welcome": "Welcome to LAMP",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "inviteCode": "Invite Code",
+  "@inviteCode": {
+    "description": "Invite code field label"
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Submit button text"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+  "community": "Community",
+  "@community": {
+    "description": "Community tab label"
+  },
+  "habits": "Habits",
+  "@habits": {
+    "description": "Habits tab label"
+  },
+  "tasks": "Tasks",
+  "@tasks": {
+    "description": "Tasks tab label"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile tab label"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications label"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings label"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error label"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+  "noData": "No data available",
+  "@noData": {
+    "description": "Empty state message"
+  }
+}
